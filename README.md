@@ -4,10 +4,10 @@ This command line tool helps you to create a proxy that adds adds a latency betw
 
 ## Installation
 
-via `npm`:
+via npm:
 
 ```bash
-npm install node-proxy-latency-tester
+npm install -g node-proxy-latency-tester
 ```
 
 ## Usage
