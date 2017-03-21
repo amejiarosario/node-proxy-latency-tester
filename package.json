@@ -2,7 +2,7 @@
   "name": "node-proxy-latency-tester",
   "version": "1.0.0",
   "description": "Node proxy for simulating webserver latencies on localhost or testing enviroments (CI)",
-  "main": "bin/node-proxy-latency-tester",
+  "main": "./lib/node-proxy-latency-tester",
   "bin": {
     "node-proxy-latency-tester": "./bin/node-proxy-latency-tester",
     "np": "./bin/node-proxy-latency-tester"
@@ -28,5 +28,8 @@
   ],
   "dependencies": {
     "cli": "1.0.1"
+  },
+  "engines": {
+    "node": ">=4.2.4"
   }
 }
