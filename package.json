@@ -1,0 +1,11 @@
+{
+  "name": "node-proxy-latency-tester",
+  "version": "1.0.0",
+  "description": "Node proxy for simulating webserver latencies on localhost or testing enviroments (CI)",
+  "main": "node-proxy-latency-tester.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Mejia <me@adrianmejia.com>",
+  "license": "ISC"
+}
